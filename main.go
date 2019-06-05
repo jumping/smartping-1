@@ -14,7 +14,7 @@
 
 package main
 
-import "gitlab.meitu.com/ryq/smartping/cmd"
+import "github.com/shafreeck/smartping/cmd"
 
 func main() {
 	cmd.Execute()
